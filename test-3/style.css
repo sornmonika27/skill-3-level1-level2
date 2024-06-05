@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+.container{
+    width: 100%;
+    height: auto;
+    background-color: rgb(10, 37, 77);
+    color: white;
+}
+.box{
+    width: 500px;
+    height: auto;
+    /* background-color: yellow; */
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+}
